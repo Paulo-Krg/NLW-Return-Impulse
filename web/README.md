@@ -15,12 +15,12 @@
 
 ## :computer: Project:
 
-Desenvolvimento de um Widget que pode ser incorporado à qualquer aplicação com a funcionalidade de coletar feedbacks dos usuários.
+Development of a widget that can be incorporated into any application with the functionality to collect user feedback.
 
 ## :sparkles: Technologies Used:
 
 -   Node.js
--   NPM
+-   Npm
 -   Typescript
 -   Tailwind CSS
 -   Project started using `npm create vite@latest` > `web` > `react` > `react-ts`

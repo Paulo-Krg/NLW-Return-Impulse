@@ -5,7 +5,7 @@
   <!-- [![Badge](https://img.shields.io/badge/Finished%20Project-00aa00)](#) -->
 
 <h1>
-  A Feedback Widget in React.js.<br>
+  A Feedback Widget in React Native.<br>
 </h1>
 
 </div>
@@ -15,18 +15,19 @@
 
 ## :computer: Project:
 
-Desenvolvimento de um Widget que pode ser incorporado à qualquer aplicação com a funcionalidade de coletar feedbacks dos usuários.
+Development of a widget that can be incorporated into any application with the functionality to collect user feedback.
 
 ## :sparkles: Technologies Used:
 
 -   Node.js
--   NPM
+-   Npm
+-   React Native
 -   Expo
 -   Typescript
 -   Axios to deal with HTTP requests
 -   Project started using `expo init mobile` > blank (Typescript)
 
-Installed dependencies:
+Installed Dependencies:
 
 -   [expo fonts](https://www.npmjs.com/package/@expo-google-fonts/inter) `expo install @expo-google-fonts/inter expo-font expo-app-loading`
 -   [Phosphor Icons](https://phosphoricons.com/): `expo install phosphor-react-native`
@@ -44,8 +45,9 @@ VSCode Extensions:
 -   R Component by rodrigorgtic - React Native Snippets
 
 R Component snippets:
-rnbc -> React Native Base Component
-rnso -> React Native Styles Object
+
+-   rnbc -> React Native Base Component
+-   rnso -> React Native Styles Object
 
 ## :scroll: Interesting References:
 

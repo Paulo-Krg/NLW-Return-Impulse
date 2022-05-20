@@ -5,7 +5,7 @@
   <!-- [![Badge](https://img.shields.io/badge/Finished%20Project-00aa00)](#) -->
 
 <h1>
-  A Feedback Widget in React.js.<br>
+  A Feedback Widget REST API Back-End.<br>
 </h1>
 
 </div>
@@ -15,12 +15,12 @@
 
 ## :computer: Project:
 
-Desenvolvimento de um Widget que pode ser incorporado à qualquer aplicação com a funcionalidade de coletar feedbacks dos usuários.
+Development of a widget that can be incorporated into any application with the functionality to collect user feedback.
 
 ## :sparkles: Technologies Used:
 
 -   Node.js
--   NPM
+-   Npm
 -   Typescript
 -   Express to handle application routes
 -   [SQLite](https://www.sqlite.org/index.html) as a development database
@@ -35,8 +35,8 @@ Dev dependencies:
 -   [Prisma](https://www.prisma.io/): `npm install -D prisma` and `npm install @prisma/client`
 -   [cors](https://www.npmjs.com/package/cors): `npm install cors` and `npm install -D @types/cors`
 -   [nodemailer](https://nodemailer.com/about/): `npm install nodemailer` and `npm install -D @types/nodemailer`
--   [jest](https://jestjs.io/pt-BR/docs/getting-started): `npm install -D jest @types/jest` and `npm install -D ts-node`
--   [swc](https://swc.rs/): `npm install -D @swc/jest`
+-   [Jest](https://jestjs.io/pt-BR/docs/getting-started): `npm install -D jest @types/jest` and `npm install -D ts-node`
+-   [SWC](https://swc.rs/): `npm install -D @swc/jest`
 
 VSCode Extensions:
 
@@ -53,7 +53,7 @@ Execute Prisma migrations:
 
 ## :scroll: Interesting References:
 
--   How to create a Widget component in React.js that can be used in any application.
+-   How to create a REST API that can be used by many applications, either mobile or web.
 -   How to automatically send emails using [nodemailer](https://nodemailer.com/about/) and [mailtrap](https://mailtrap.io/inboxes).
 -   How to use [Prisma](https://www.prisma.io/) ORM (Object-Relational Mapping) to easily manipulate a SQLite or PostgreSQL database.
 -   How to make unity tests using [Jest](https://jestjs.io/pt-BR/docs/getting-started).
