@@ -8,13 +8,13 @@ generator client {
 // SQLite database
 datasource db {
   provider = "sqlite"
-  url      = env("SERVERBASEURL")
+  url      = env("DATABASE_URL")
 }
 
 // // PostgreSLQ database
 // datasource db {
 //   provider = "postgresql"
-//   url      = env("SERVERBASEURL")
+//   url      = env("DATABASE_URL")
 // }
 
 model Feedback {
