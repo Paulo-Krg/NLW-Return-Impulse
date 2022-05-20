@@ -1,0 +1,13 @@
+@hostname = http://localhost:3333
+
+### First test if the REST Client extension is working:
+GET https://google.com
+
+### Test 1 - Create a feedback
+post {{hostname}}/feedbacks
+Content-Type: application/json
+
+{
+    "type": "BUG",
+    "comment": "Este bug foi enviado por uma requisição direta ao Back-End!"
+}
